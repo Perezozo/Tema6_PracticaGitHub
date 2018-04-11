@@ -1,0 +1,10 @@
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Tema6_PracticaGitHub\PracticaGithub\bin\Debug\PracticaGithub.exe.config
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Tema6_PracticaGitHub\PracticaGithub\bin\Debug\PracticaGithub.exe
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Tema6_PracticaGitHub\PracticaGithub\bin\Debug\PracticaGithub.pdb
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Tema6_PracticaGitHub\PracticaGithub\obj\Debug\PracticaGithub.csprojResolveAssemblyReference.cache
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Tema6_PracticaGitHub\PracticaGithub\obj\Debug\PracticaGithub.Form1.resources
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Tema6_PracticaGitHub\PracticaGithub\obj\Debug\PracticaGithub.Properties.Resources.resources
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Tema6_PracticaGitHub\PracticaGithub\obj\Debug\PracticaGithub.csproj.GenerateResource.cache
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Tema6_PracticaGitHub\PracticaGithub\obj\Debug\PracticaGithub.csproj.CoreCompileInputs.cache
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Tema6_PracticaGitHub\PracticaGithub\obj\Debug\PracticaGithub.exe
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Tema6_PracticaGitHub\PracticaGithub\obj\Debug\PracticaGithub.pdb
